@@ -1,0 +1,15 @@
+# Node (no hay dependencias de ejecución en el MVP)
+node_modules/
+npm-debug.log*
+
+# Sistemas y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archivos temporales / variables locales
+*.log
+.env
+.env.*
+!.env.example
